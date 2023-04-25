@@ -1,4 +1,4 @@
-<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
+<!-- <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
 ##  Hi, i'm Érico Panassol 👋
 <div>
@@ -17,3 +17,4 @@
         
         
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
+ -->
